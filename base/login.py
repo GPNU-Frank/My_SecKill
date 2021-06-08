@@ -12,3 +12,4 @@ class BaseLogin:
         pass
 
     def validate_qrcode_ticket(self, ticket):
+        pass

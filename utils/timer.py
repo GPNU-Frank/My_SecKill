@@ -4,7 +4,7 @@ import requests
 import json
 
 from datetime import datetime
-from utils.jd_logger import logger
+from utils.logger import logger
 # from utils import logger
 from config.config import global_config
 

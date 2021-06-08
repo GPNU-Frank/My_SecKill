@@ -1,17 +1,23 @@
+#-*- coding: utf-8 -*-
+
+
 import requests
 from base import BaseLogin
-
+from .jd_session import JDSession
+from utils import *
+from utils.logger import *
 
 class JDLogin(BaseLogin):
     def __init__(self):
-        super(BaseLogin, self).__init__()
+        # super(BaseLogin, self).__init__()
         self.name = "登录京东"
 
         self.qrcode_img_file = "jd_qr_code.png"
 
         self.url = 'https://qr.m.jd.com/show'
 
-        self.session = None
+        self.session = JDSession()
+
 
     def get_qrcode(self):
         payload = {
@@ -20,7 +26,7 @@ class JDLogin(BaseLogin):
             't': str(int(time.time() * 1000)),
         }
         headers = {
-            'User-Agent': self.spider_session.get_user_agent(),
+            'User-Agent': self.session.user_agent,
             'Referer': 'https://passport.jd.com/new/login.aspx',
         }
         resp = self.session.get(url=url, headers=headers, params=payload)
@@ -33,3 +39,8 @@ class JDLogin(BaseLogin):
         logger.info('二维码获取成功，请打开京东APP扫描')
         open_image(self.qrcode_img_file)
         return True
+
+if __name__ == "__main":
+    
+    jd_login = JDLogin()
+    JDLogin.get_qrcode()
