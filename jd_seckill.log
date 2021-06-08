@@ -1,0 +1,102 @@
+2021-06-08 18:29:19,386 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-08 18:29:24,174 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:26,426 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:29,059 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:31,309 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:33,584 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:35,835 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:38,109 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:40,418 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:42,665 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:44,946 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:47,190 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:49,460 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:51,773 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:54,022 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:56,278 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-08 18:29:58,556 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:205] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-06-08 18:30:00,805 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2021-06-08 18:30:01,518 - 5820-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:262] - INFO: 二维码登录成功
+2021-06-08 18:31:27,131 - 13116-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:290] - INFO: 登录成功
+2021-06-08 18:32:44,004 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:290] - INFO: 登录成功
+2021-06-08 18:32:44,711 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:45,573 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:46,176 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:46,724 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:47,505 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:48,122 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:48,906 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:49,638 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:50,518 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:52,067 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:52,964 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:53,940 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:54,813 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:55,544 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:56,348 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:57,119 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:57,830 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:58,386 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:58,980 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:32:59,648 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:00,480 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:01,365 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:02,261 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:03,001 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:03,900 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:04,877 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:05,567 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:06,583 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:07,484 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:08,139 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:08,832 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:09,653 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:10,458 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:11,132 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:11,899 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:12,536 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:13,290 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:13,964 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:14,709 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:15,349 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:15,984 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:16,718 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:17,475 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:18,264 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:18,940 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:19,655 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:20,258 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:21,110 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:21,869 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:22,654 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:23,360 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:24,318 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:25,140 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:25,982 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:26,814 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:27,501 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:28,160 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:29,066 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:29,719 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:30,348 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:31,076 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:31,755 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:32,413 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:33,234 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:33,910 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:34,495 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:35,108 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:35,763 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:36,391 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:37,039 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:33:37,503 - 15448-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:35:34,392 - 15600-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:290] - INFO: 登录成功
+2021-06-08 18:35:35,205 - 15600-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:35:36,371 - 15600-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:40:30,922 - 15592-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:290] - INFO: 登录成功
+2021-06-08 18:40:31,415 - 15592-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:40:31,892 - 15592-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:383] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-06-08 18:47:20,395 - 13488-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:290] - INFO: 登录成功
+2021-06-08 18:47:20,841 - 13488-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-06-08 18:47:21,656 - 13488-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:385] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-06-08 18:55:37,983 - 15976-MainThread - G:\my_projects\my_seckill\extend\jd_spider_requests.py[line:290] - INFO: 登录成功
