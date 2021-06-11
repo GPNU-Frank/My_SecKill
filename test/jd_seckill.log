@@ -1,0 +1,49 @@
+2021-06-09 10:17:24,087 - 14128-MainThread - ..\extend\jd\jd_login.py[line:40] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:36:14,017 - 14256-MainThread - ..\extend\jd\jd_login.py[line:81] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:37:02,670 - 13032-MainThread - ..\extend\jd\jd_login.py[line:81] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:37:03,383 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:05,629 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:07,903 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:10,159 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:12,426 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:14,742 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:16,979 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:19,216 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:21,489 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:23,736 - 13032-MainThread - ..\extend\jd\jd_login.py[line:129] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:37:26,043 - 13032-MainThread - ..\extend\jd\jd_login.py[line:132] - INFO: 已完成手机客户端确认
+2021-06-09 10:37:26,666 - 13032-MainThread - ..\extend\jd\jd_login.py[line:187] - INFO: 二维码登录成功
+2021-06-09 10:39:46,898 - 10424-MainThread - ..\extend\jd\jd_login.py[line:82] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:39:47,634 - 10424-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:39:49,880 - 10424-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:39:52,158 - 10424-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:39:54,405 - 10424-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:39:56,683 - 10424-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:39:58,927 - 10424-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:46:06,235 - 12948-MainThread - ..\extend\jd\jd_login.py[line:82] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:46:07,121 - 12948-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:46:09,366 - 12948-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:46:11,645 - 12948-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:46:13,889 - 12948-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:46:16,166 - 12948-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:46:18,411 - 12948-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:46:20,690 - 12948-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-06-09 10:46:22,943 - 12948-MainThread - ..\extend\jd\jd_login.py[line:133] - INFO: 已完成手机客户端确认
+2021-06-09 10:47:08,451 - 7428-MainThread - ..\extend\jd\jd_login.py[line:82] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:47:08,909 - 7428-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:47:11,186 - 7428-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:47:13,462 - 7428-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:47:15,712 - 7428-MainThread - ..\extend\jd\jd_login.py[line:133] - INFO: 已完成手机客户端确认
+2021-06-09 10:48:16,813 - 5644-MainThread - ..\extend\jd\jd_login.py[line:82] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:48:17,272 - 5644-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:48:19,513 - 5644-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:48:21,789 - 5644-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:48:24,029 - 5644-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:48:26,277 - 5644-MainThread - ..\extend\jd\jd_login.py[line:133] - INFO: 已完成手机客户端确认
+2021-06-09 10:48:56,456 - 3156-MainThread - ..\extend\jd\jd_login.py[line:82] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-06-09 10:48:56,900 - 3156-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:48:59,142 - 3156-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:49:01,415 - 3156-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:49:03,656 - 3156-MainThread - ..\extend\jd\jd_login.py[line:130] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-06-09 10:49:05,935 - 3156-MainThread - ..\extend\jd\jd_login.py[line:133] - INFO: 已完成手机客户端确认
+2021-06-09 10:49:06,641 - 3156-MainThread - ..\extend\jd\jd_login.py[line:219] - INFO: 二维码登录成功
